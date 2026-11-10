@@ -54,7 +54,7 @@
 
     <!-- status dot -->
     <circle class="dot" cx="58" cy="52" r="6"/>
-    <text x="74" y="58" class="pre" style="font-size:15px">Computer Engineering · Politecnico di Milano</text>
+    <text x="74" y="58" class="pre" style="font-size:15px">Computer Engineering · Politecnico di Milano × Universidad Politécnica de Madrid</text>
 
     <text x="50" y="110" class="name">Jin Fa Zheng</text>
 
