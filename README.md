@@ -2,7 +2,7 @@
   <img src="./banner.svg" alt="Jin Fa Zheng: ML, robotics and embedded systems" width="100%">
 </p>
 
-Hi, I'm Jin Fa 👋 Computer Engineering student at **Politecnico di Milano**.
+Hi, I'm Jin Fa 👋 Computer Engineering student on a double degree between **Politecnico di Milano** and **Universidad Politécnica de Madrid (UPM)**.
 I build things where messy real-world data meets code: ML pipelines, robotics, and embedded firmware.
 
 ### 🏆 Highlights
